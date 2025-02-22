@@ -5,7 +5,7 @@
 </div>
 <hr>
 <div>
-<p> Tenho 26 anos, moro em Santa Catarina, sou professora de Língua Portuguesa/Literatura e atualmente estou estudando as ferramentas e tecnologias necessárias para me tornar uma desenvolvedora Front-end! 👩🏻‍💻</p>
+<p> Tenho 28 anos, moro em Santa Catarina, sou analista de Linguagens e atualmente estou estudando as ferramentas e tecnologias necessárias para me tornar uma desenvolvedora Front-end! 👩🏻‍💻</p>
 </div>
 <hr>
  <div>
