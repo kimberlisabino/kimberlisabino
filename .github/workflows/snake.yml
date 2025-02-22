@@ -26,3 +26,11 @@ jobs:
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Update Snake animation" || echo "No changes to commit"
           git push
+
+        - name: Push to output branch
+        run: |
+          git checkout -B output
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
+          git push origin output --force
+
